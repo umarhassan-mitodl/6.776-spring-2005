@@ -1,0 +1,61 @@
+{
+  "term": "Spring",
+  "year": "2005",
+  "level": [
+    "Graduate"
+  ],
+  "topics": [
+    [
+      "Engineering",
+      "Electrical Engineering",
+      "Signal Processing"
+    ],
+    [
+      "Engineering",
+      "Electrical Engineering",
+      "Telecommunications"
+    ],
+    [
+      "Engineering",
+      "Computer Science",
+      "Computer Networks"
+    ],
+    [
+      "Engineering",
+      "Electrical Engineering",
+      "Digital Systems"
+    ]
+  ],
+  "legacy_uid": "206aa5e6-d59a-dc0f-42d1-5740e8edb2cb",
+  "instructors": {
+    "content": [
+      "24b3901d-48d0-11da-4edf-7fbd2b518419",
+      "7f2cc1e5-d86d-519b-4aaa-f394a73c146d"
+    ],
+    "website": "ocw-www"
+  },
+  "course_image": {
+    "content": "227ee0a4-8299-0239-3942-adbb5bcbcbbb",
+    "website": "6-776-high-speed-communication-circuits-spring-2005"
+  },
+  "course_title": "High Speed Communication Circuits",
+  "course_description": "6.776 covers circuit level design issues of high speed communication systems, with primary focus being placed on wireless and broadband data link applications. Specific circuit topics include transmission lines, high speed and low noise amplifiers, VCO's, mixers, power amps, high speed digital circuits, and frequency synthesizers. In addition to learning analysis skills for the above items, students will gain a significant amount of experience in simulating RF circuits in SPICE and also building RF circuits within a lab project.\n",
+  "department_numbers": [
+    "6"
+  ],
+  "extra_course_numbers": "",
+  "primary_course_number": "6.776",
+  "course_image_thumbnail": {
+    "content": "1c95b8a4-4663-ab6a-0f34-9872a94d085f",
+    "website": "6-776-high-speed-communication-circuits-spring-2005"
+  },
+  "learning_resource_types": [
+    "Problem Sets",
+    "Exams",
+    "Lecture Notes"
+  ],
+  "site_uid": "01782a7d-7bb1-4aad-9058-6b9dd41419be",
+  "site_short_id": "6.776-spring-2005",
+  "site_url_path": "courses/6-776-high-speed-communication-circuits-spring-2005",
+  "title": "Course Metadata"
+}
